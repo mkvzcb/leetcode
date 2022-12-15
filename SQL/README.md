@@ -1,7 +1,7 @@
-# Leetcode
+# Leetcode SQL
 
-Doing leetcode problems just for practice
+Doing SQL problems in order to learn queries, inserts and everything.
 
-Currently:
- - Rust
- - Databases - mySQL
+Completed means that created table work.
+Todo inserts mean that the problem is solved but missing creating tables.
+WIP means not yet done. 
